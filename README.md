@@ -1,1 +1,1 @@
-# ini adalah bagian golang dasar yang cukup sulit logicnya
+# ini adalah bagian golang dasar yang cukup sulit 
